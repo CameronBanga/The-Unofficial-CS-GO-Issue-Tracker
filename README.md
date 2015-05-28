@@ -10,4 +10,4 @@ If you have never created a bug report before, the more detail the better. By cr
 
 * [How to write a good bug report](http://www.softwaretestinghelp.com/how-to-write-good-bug-report/)
 * [Writing better bug reports](http://martiancraft.com/blog/2014/07/good-bug-reports/)
-* [Mozille bug filing guidelines](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_writing_guidelines)
+* [Mozilla bug filing guidelines](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_writing_guidelines)
